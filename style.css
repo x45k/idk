@@ -73,8 +73,8 @@ nav {
     opacity: 0.9;
 }
 
-.game.game-grassdash {
-    background-image: url('./assets/grassdashexample.png');
+.game.game-basketrandom {
+    background-image: url('./assets/basketrandom.png');
     background-size: cover;
     background-position: center;
 }
